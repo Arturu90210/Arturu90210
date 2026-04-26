@@ -27,7 +27,8 @@ Projekt łączy analizę techniczną z elementami uczenia maszynowego (ML) w cel
 * **Prawa autorskie:** Projekt stanowi własność intelektualną autora. Kopiowanie lub wykorzystywanie fragmentów koncepcji bez zgody jest zabronione.
 
 ---
-**Autor:** [== Artur ==]  
-*Remote Working Professional since 2007* |  
-### ✉️ Kontakt / Contact  
-✉️ [poniatowa[at]gmail.com](mailto:poniatowa@gmail.com)
+### 👨‍💻 Autor / Author
+**Artur** *Remote Working Professional since 2007*
+
+### ✉️ Kontakt / Contact
+* **E-mail:** [mail[at]gmail.com](mailto:mail@gmail.com)
