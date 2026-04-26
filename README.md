@@ -3,13 +3,17 @@
 Prywatny projekt automatyzacji handlu na rynku finansowym, realizowany w środowisku .NET.
 
 ## 🚀 Kluczowe cechy projektu
-
 Projekt łączy analizę techniczną z elementami uczenia maszynowego (ML) w celu optymalizacji decyzji handlowych:
 
-* **Risk Management (Core):** Zaawansowane moduły kontroli ryzyka oparte na standardach instytucjonalnych. Obejmują one automatyczne obliczanie wolumenu pozycji (Lot Size) w oparciu o aktualną zmienność rynku (Volatility-adjusted) oraz systemy filtracji anomalii rynkowych.
-* **Machine Learning:** Klasyfikacja kierunku ruchu ceny (Triple Barrier Method) – podejście analityczne analogiczne do systemów detekcji nadużyć (Fraud Detection).
-* **Smart Execution:** Inteligentny system egzekucji zleceń minimalizujący koszty transakcyjne i poślizgi cenowe (slippage).
-* **Interface:** Autorski panel kontrolny z wizualizacją procesów decyzyjnych oraz funkcją *Emergency Stop*.
+🛡️ Risk Management & Safety: Instytucjonalny moduł kontroli pozycji (Volatility-adjusted Lot Sizing) oraz system Emergency Stop z wizualizacją Drawdownu w czasie rzeczywistym.
+
+🧠 Adaptive ML Engine: Klasyfikator kierunku ruchu ceny z funkcją Dynamic Retraining (adaptacja do sesji rynkowych) oraz analizą siły sygnału (Edge vs Noise).
+
+⚡ Smart Execution: Autorski system Smart Limit, który eliminuje poślizgi cenowe (Slippage) poprzez inteligentne zlecenia oczekujące na korektę (Pullback).
+
+🔍 Decision Transparency: System Real-time Debugging (Last Bypass Reason), raportujący logikę pominięcia sygnału w oparciu o 14 punktów decyzyjnych.
+
+🚦 Market Regime Detection: Automatyczne rozpoznawanie fazy rynku oraz dynamiczne alerty zmienności (Risk Alerts).
 
 ## 🛠️ Technologia i Środowisko
 
