@@ -19,7 +19,7 @@ Projekt łączy analizę techniczną z elementami uczenia maszynowego (ML) w cel
 
 * **Język:** C# / .NET
 * **Platforma:** cTrader Desktop API
-* **Instrument:** XAU/USD (Gold)
+* **Instrument:** Rynek Finansowy
 
 ## 🔒 Prywatność i Własność Intelektualna
 
