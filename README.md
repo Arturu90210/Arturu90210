@@ -28,5 +28,6 @@ Projekt łączy analizę techniczną z elementami uczenia maszynowego (ML) w cel
 
 ---
 **Autor:** [== Artur ==]  
-*Remote Working Professional since 2007* | 
+*Remote Working Professional since 2007* |  
+### ✉️ Kontakt / Contact  
 ✉️ [poniatowa[at]gmail.com](mailto:poniatowa@gmail.com)
